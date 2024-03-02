@@ -1,0 +1,8 @@
+C:\Users\MAGIC\source\repos\ConsoleApp80\ConsoleApp80\bin\Debug\ConsoleApp80.exe.config
+C:\Users\MAGIC\source\repos\ConsoleApp80\ConsoleApp80\bin\Debug\ConsoleApp80.exe
+C:\Users\MAGIC\source\repos\ConsoleApp80\ConsoleApp80\bin\Debug\ConsoleApp80.pdb
+C:\Users\MAGIC\source\repos\ConsoleApp80\ConsoleApp80\obj\Debug\ConsoleApp80.csproj.AssemblyReference.cache
+C:\Users\MAGIC\source\repos\ConsoleApp80\ConsoleApp80\obj\Debug\ConsoleApp80.csproj.CoreCompileInputs.cache
+C:\Users\MAGIC\source\repos\ConsoleApp80\ConsoleApp80\obj\Debug\ConsoleApp80.exe
+C:\Users\MAGIC\source\repos\ConsoleApp80\ConsoleApp80\obj\Debug\ConsoleApp80.pdb
+C:\Users\MAGIC\source\repos\ConsoleApp80\ConsoleApp80\obj\Debug\ConsoleApp80.csproj.SuggestedBindingRedirects.cache
