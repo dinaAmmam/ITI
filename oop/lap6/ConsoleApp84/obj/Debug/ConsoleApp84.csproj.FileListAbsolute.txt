@@ -1,0 +1,7 @@
+C:\Users\MAGIC\source\repos\ConsoleApp84\ConsoleApp84\bin\Debug\ConsoleApp84.exe.config
+C:\Users\MAGIC\source\repos\ConsoleApp84\ConsoleApp84\bin\Debug\ConsoleApp84.exe
+C:\Users\MAGIC\source\repos\ConsoleApp84\ConsoleApp84\bin\Debug\ConsoleApp84.pdb
+C:\Users\MAGIC\source\repos\ConsoleApp84\ConsoleApp84\obj\Debug\ConsoleApp84.csproj.AssemblyReference.cache
+C:\Users\MAGIC\source\repos\ConsoleApp84\ConsoleApp84\obj\Debug\ConsoleApp84.csproj.CoreCompileInputs.cache
+C:\Users\MAGIC\source\repos\ConsoleApp84\ConsoleApp84\obj\Debug\ConsoleApp84.exe
+C:\Users\MAGIC\source\repos\ConsoleApp84\ConsoleApp84\obj\Debug\ConsoleApp84.pdb
