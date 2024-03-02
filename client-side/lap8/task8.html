@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        form{
+            border: 2px solid black;
+            width: 500px;
+            text-align: center;
+            margin-left: 500px;
+        }
+        .correct{
+            border:2px solid green !important;
+        }
+        .incorrect{
+            border:2px solid red !important;
+        }
+        #ERRoR{
+            color: red;
+        }
+    </style>
+    <script>
+        window.addEventListener('load', function(){
+            //get & validate username
+            usernametbx = document.getElementById('username');
+            usernametbx.focus();
+            countrytbx = document.getElementById('country');
+            ziptbx = document.getElementById('zip');
+            usernametbx.addEventListener('blur', function(){
+                if(!isusernamevalidate()){
+                    usernametbx.className = "incorrect";
+                    ERRoR.innerText="please enter name!!!";
+                   
+                    usernametbx.focus();
+                    usernametbx.select();
+                }else{
+                    usernametbx.className="correct";
+                    ERRoR.innerText="";
+                }
+
+            });
+
+            var ziparr = [111,110,211,300];
+            countrytbx.addEventListener('blur', function(){
+                ziptbx.addEventListener('focus',function(){
+            if(countrytbx.value == "egypt"){
+                ziptbx.innerText = 111;
+            }
+            else if(countrytbx.value == "italy"){
+                ziptbx.innerText = 211;
+
+            }
+            else if(countrytbx.value == "brazil"){
+                ziptbx.innerText = 311;
+
+            }
+            else if(countrytbx.value == "canada"){
+                ziptbx.innerText = 411;
+            }  
+                });
+                
+
+            });
+            
+
+
+        });
+        function isusernamevalidate(){
+            if(username.value.trim()){
+                return true;
+            }
+            else{
+                return false;
+            }   
+        }
+        function fillzip(){
+            if(countrytbx.value == "egypt"){
+                ziptbx.innerText = 111;
+            }
+            else if(countrytbx.value == "italy"){
+                ziptbx.innerText = 211;
+
+            }
+            else if(countrytbx.value == "brazil"){
+                ziptbx.innerText = 311;
+
+            }
+            else if(countrytbx.value == "canada"){
+                ziptbx.innerText = 411;
+            }  
+        }
+
+    </script>
+</head>
+<body>
+    <form method="get" action="page.html">
+        <table>
+            <tr>
+                <td>Name</td>
+                <td><input type="text" id="username" placeholder="enter your full name" /></td>
+                <span id="ERRoR"></span>
+            </tr>
+            <tr>
+                <td><label for="country">Choose a country</label></td>
+                <td>              
+                    <select name="country" id="country">
+                   <option value="egypt">Egypt</option>
+                   <option value="italy">Italy</option>
+                  <option value="brazil">Brazil</option>
+                  <option value="canada">Canada</option>
+                 </select></td>
+            </tr>
+            <tr>
+                <td>Zip</td>
+                <td><input type="zip" id="zip"  placeholder="zip" /></td>
+            </tr>
+            <tr>
+                <td>Email</td>
+                <td><input type="email" id="email"  placeholder="email" /></td>
+            </tr>
+            <tr>
+                <td>Hoppies</td>
+                <td><input type="checkbox" id="hop1" name="hop1" value="drawing">
+                    <label for="hop1"> Drawing</label>
+                    <input type="checkbox" id="hop2" name="hop2" value="swimming">
+                    <label for="hop2"> Swimming</label>
+                    <input type="checkbox" id="hop3" name="hop3" value="painting">
+                    <label for="hop3"> Painting</label>
+                    <input type="checkbox" id="hop4" name="hop4" value="sleaping">
+                    <label for="hop4"> Sleaping</label></td>
+            </tr>
+            <tr>
+                <td><input type="submit" value="register" /></td></tr><br/>
+                <td><input type="reset" value="Clear" /></td>
+            </tr>
+        </table>
+    </form>
+    
+</body>
+</html>

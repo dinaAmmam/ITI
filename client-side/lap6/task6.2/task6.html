@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        *{
+            padding:0;
+            margin:0;
+        }
+        div{
+            
+            text-align:center;
+            padding:10px;
+            margin:10px auto;
+
+        }
+        #mainwrapper{
+            width:500px;
+            height:400px;
+        }
+        #imagewrapper{
+            width:60%;
+            height:60%;
+        }
+       img{
+            width:80%;
+            height:100%;
+        }
+        #controlswrapper {
+            width: 400px;
+            text-align: center;
+        }
+        input{
+            width:70px;
+            padding:5px;
+            margin:10px;
+            border-radius:10px;
+            outline:none;
+            border:none;
+            font-weight:bold;   
+        }
+        input:hover{
+            cursor:pointer;
+        }
+        input:focus{
+            background-color:pink;
+        }
+    </style>
+</head>
+<body>
+    <div id="mainwrapper">
+        <div id="imagewrapper">
+            <img src="1.jpg" id="myimg" />
+        </div>
+        <div id="controlswrapper">
+            <input type="button" value="start" onclick=startshow() onchange=stop() onfocus= "removefocus();"  />
+            <input type="button" value="next" onclick=nextimg() onchange=stop() onfocus= "removefocus();" />
+            <input type="button" value="prev" onclick=previmg() onchange=stop() onfocus= "removefocus();" />
+            <input type="button" value="stop" onclick=stopshow() onchange=stop() onfocus= "removefocus();" />
+        </div>
+    </div>
+    
+    <script src="task6.js"></script>
+</body>
+</html>
