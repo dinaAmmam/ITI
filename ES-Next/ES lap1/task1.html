@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <script>
+        //task1
+        let arr = [0,1,2,3,4,5,100]
+        let copyArr = arr.slice(0);
+        console.log("acending")
+        console.log(copyArr.sort((x,y)=> x-y));
+        console.log("decending")
+        console.log(copyArr.sort((y,x) => x-y));
+        //task2
+        console.log("filter");
+        console.log(arr.filter((arr1) => arr1> 50));
+        //task3
+        console.log(Math.max(...arr));
+        console.log(Math.min(...arr));
+        //task4
+        
+        function sum (op, ...arr){
+            if(op="+"){
+                s = "sum"
+            }
+            else{
+                s = "multiply"
+            }
+
+            return(`result of ${s} for ${arr} is  ${eval(...arr.join(op))}`)
+            
+        }
+        console.log(sum("+",...arr));
+        
+
+
+    </script>
+</body>
+</html>

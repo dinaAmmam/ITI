@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  </head>
+  <body>
+    <table>
+      <th>title</th>
+      <th>publish year</th>
+    </table>
+    <script>
+      let allpostsasjs;
+      async function loadposts() {
+        allposts = await fetch(
+          "https://openlibrary.org/search.json?q=the+lord+of+the+rings&page=2"
+        );
+        allpostsasjs = await allposts.json(); // return js object from json caller
+        console.log(allpostsasjs);
+
+        var ttable = document.getElementsByTagName("table")[0];
+        allpostsasjs.docs.forEach((post) => {
+
+          var trow = document.createElement("tr");
+          var newtd = document.createElement("td");
+          newtd.innerText = post.title;
+          trow.appendChild(newtd);
+          //
+          var newtd2 = document.createElement("td");
+          newtd2.innerText = post.publish_year;
+          trow.appendChild(newtd2);
+          ttable.style =
+            "background-color:yellow;text-align:center;color:green;border:2px solid red";
+            newtd.style = "border:2px solid red";
+            newtd2.style = "border:2px solid red";
+          ttable.appendChild(trow);
+        });
+
+        // localStorage.setItem("loaded", JSON.stringify(allpostsasjs));
+      }
+      loadposts();
+
+    </script>
+  </body>
+</html>
