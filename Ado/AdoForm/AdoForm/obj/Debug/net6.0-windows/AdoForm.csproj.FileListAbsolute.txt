@@ -1,0 +1,96 @@
+\\Mac\Home\Desktop\C#\week1\AdoForm\AdoForm\bin\Debug\net6.0-windows\AdoForm.exe
+\\Mac\Home\Desktop\C#\week1\AdoForm\AdoForm\bin\Debug\net6.0-windows\AdoForm.deps.json
+\\Mac\Home\Desktop\C#\week1\AdoForm\AdoForm\bin\Debug\net6.0-windows\AdoForm.runtimeconfig.json
+\\Mac\Home\Desktop\C#\week1\AdoForm\AdoForm\bin\Debug\net6.0-windows\AdoForm.dll
+\\Mac\Home\Desktop\C#\week1\AdoForm\AdoForm\bin\Debug\net6.0-windows\AdoForm.pdb
+\\Mac\Home\Desktop\C#\week1\AdoForm\AdoForm\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+\\Mac\Home\Desktop\C#\week1\AdoForm\AdoForm\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+\\Mac\Home\Desktop\C#\week1\AdoForm\AdoForm\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+\\Mac\Home\Desktop\C#\week1\AdoForm\AdoForm\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+\\Mac\Home\Desktop\C#\week1\AdoForm\AdoForm\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+\\Mac\Home\Desktop\C#\week1\AdoForm\AdoForm\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+\\Mac\Home\Desktop\C#\week1\AdoForm\AdoForm\obj\Debug\net6.0-windows\AdoForm.csproj.AssemblyReference.cache
+\\Mac\Home\Desktop\C#\week1\AdoForm\AdoForm\obj\Debug\net6.0-windows\AdoForm.Form1.resources
+\\Mac\Home\Desktop\C#\week1\AdoForm\AdoForm\obj\Debug\net6.0-windows\AdoForm.csproj.GenerateResource.cache
+\\Mac\Home\Desktop\C#\week1\AdoForm\AdoForm\obj\Debug\net6.0-windows\AdoForm.GeneratedMSBuildEditorConfig.editorconfig
+\\Mac\Home\Desktop\C#\week1\AdoForm\AdoForm\obj\Debug\net6.0-windows\AdoForm.AssemblyInfoInputs.cache
+\\Mac\Home\Desktop\C#\week1\AdoForm\AdoForm\obj\Debug\net6.0-windows\AdoForm.AssemblyInfo.cs
+\\Mac\Home\Desktop\C#\week1\AdoForm\AdoForm\obj\Debug\net6.0-windows\AdoForm.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\C#\week1\AdoForm\AdoForm\obj\Debug\net6.0-windows\AdoForm.csproj.CopyComplete
+\\Mac\Home\Desktop\C#\week1\AdoForm\AdoForm\obj\Debug\net6.0-windows\AdoForm.dll
+\\Mac\Home\Desktop\C#\week1\AdoForm\AdoForm\obj\Debug\net6.0-windows\refint\AdoForm.dll
+\\Mac\Home\Desktop\C#\week1\AdoForm\AdoForm\obj\Debug\net6.0-windows\AdoForm.pdb
+\\Mac\Home\Desktop\C#\week1\AdoForm\AdoForm\obj\Debug\net6.0-windows\AdoForm.genruntimeconfig.cache
+\\Mac\Home\Desktop\C#\week1\AdoForm\AdoForm\obj\Debug\net6.0-windows\ref\AdoForm.dll
+C:\Users\MAGIC\OneDrive\Desktop\AdoFormForDinaElGoodFriend\AdoForm\AdoForm\bin\Debug\net6.0-windows\AdoForm.exe
+C:\Users\MAGIC\OneDrive\Desktop\AdoFormForDinaElGoodFriend\AdoForm\AdoForm\bin\Debug\net6.0-windows\AdoForm.deps.json
+C:\Users\MAGIC\OneDrive\Desktop\AdoFormForDinaElGoodFriend\AdoForm\AdoForm\bin\Debug\net6.0-windows\AdoForm.runtimeconfig.json
+C:\Users\MAGIC\OneDrive\Desktop\AdoFormForDinaElGoodFriend\AdoForm\AdoForm\bin\Debug\net6.0-windows\AdoForm.dll
+C:\Users\MAGIC\OneDrive\Desktop\AdoFormForDinaElGoodFriend\AdoForm\AdoForm\bin\Debug\net6.0-windows\AdoForm.pdb
+C:\Users\MAGIC\OneDrive\Desktop\AdoFormForDinaElGoodFriend\AdoForm\AdoForm\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\MAGIC\OneDrive\Desktop\AdoFormForDinaElGoodFriend\AdoForm\AdoForm\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\MAGIC\OneDrive\Desktop\AdoFormForDinaElGoodFriend\AdoForm\AdoForm\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\MAGIC\OneDrive\Desktop\AdoFormForDinaElGoodFriend\AdoForm\AdoForm\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\MAGIC\OneDrive\Desktop\AdoFormForDinaElGoodFriend\AdoForm\AdoForm\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\MAGIC\OneDrive\Desktop\AdoFormForDinaElGoodFriend\AdoForm\AdoForm\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\MAGIC\OneDrive\Desktop\AdoFormForDinaElGoodFriend\AdoForm\AdoForm\obj\Debug\net6.0-windows\AdoForm.csproj.AssemblyReference.cache
+C:\Users\MAGIC\OneDrive\Desktop\AdoFormForDinaElGoodFriend\AdoForm\AdoForm\obj\Debug\net6.0-windows\AdoForm.Form1.resources
+C:\Users\MAGIC\OneDrive\Desktop\AdoFormForDinaElGoodFriend\AdoForm\AdoForm\obj\Debug\net6.0-windows\AdoForm.csproj.GenerateResource.cache
+C:\Users\MAGIC\OneDrive\Desktop\AdoFormForDinaElGoodFriend\AdoForm\AdoForm\obj\Debug\net6.0-windows\AdoForm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MAGIC\OneDrive\Desktop\AdoFormForDinaElGoodFriend\AdoForm\AdoForm\obj\Debug\net6.0-windows\AdoForm.AssemblyInfoInputs.cache
+C:\Users\MAGIC\OneDrive\Desktop\AdoFormForDinaElGoodFriend\AdoForm\AdoForm\obj\Debug\net6.0-windows\AdoForm.AssemblyInfo.cs
+C:\Users\MAGIC\OneDrive\Desktop\AdoFormForDinaElGoodFriend\AdoForm\AdoForm\obj\Debug\net6.0-windows\AdoForm.csproj.CoreCompileInputs.cache
+C:\Users\MAGIC\OneDrive\Desktop\AdoFormForDinaElGoodFriend\AdoForm\AdoForm\obj\Debug\net6.0-windows\AdoForm.csproj.CopyComplete
+C:\Users\MAGIC\OneDrive\Desktop\AdoFormForDinaElGoodFriend\AdoForm\AdoForm\obj\Debug\net6.0-windows\AdoForm.dll
+C:\Users\MAGIC\OneDrive\Desktop\AdoFormForDinaElGoodFriend\AdoForm\AdoForm\obj\Debug\net6.0-windows\refint\AdoForm.dll
+C:\Users\MAGIC\OneDrive\Desktop\AdoFormForDinaElGoodFriend\AdoForm\AdoForm\obj\Debug\net6.0-windows\AdoForm.pdb
+C:\Users\MAGIC\OneDrive\Desktop\AdoFormForDinaElGoodFriend\AdoForm\AdoForm\obj\Debug\net6.0-windows\AdoForm.genruntimeconfig.cache
+C:\Users\MAGIC\OneDrive\Desktop\AdoFormForDinaElGoodFriend\AdoForm\AdoForm\obj\Debug\net6.0-windows\ref\AdoForm.dll
+E:\iti 3 monthes 2\ado\AdoForm\AdoForm\bin\Debug\net6.0-windows\AdoForm.exe
+E:\iti 3 monthes 2\ado\AdoForm\AdoForm\bin\Debug\net6.0-windows\AdoForm.deps.json
+E:\iti 3 monthes 2\ado\AdoForm\AdoForm\bin\Debug\net6.0-windows\AdoForm.runtimeconfig.json
+E:\iti 3 monthes 2\ado\AdoForm\AdoForm\bin\Debug\net6.0-windows\AdoForm.dll
+E:\iti 3 monthes 2\ado\AdoForm\AdoForm\bin\Debug\net6.0-windows\AdoForm.pdb
+E:\iti 3 monthes 2\ado\AdoForm\AdoForm\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+E:\iti 3 monthes 2\ado\AdoForm\AdoForm\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+E:\iti 3 monthes 2\ado\AdoForm\AdoForm\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+E:\iti 3 monthes 2\ado\AdoForm\AdoForm\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+E:\iti 3 monthes 2\ado\AdoForm\AdoForm\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\iti 3 monthes 2\ado\AdoForm\AdoForm\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\iti 3 monthes 2\ado\AdoForm\AdoForm\obj\Debug\net6.0-windows\AdoForm.csproj.AssemblyReference.cache
+E:\iti 3 monthes 2\ado\AdoForm\AdoForm\obj\Debug\net6.0-windows\AdoForm.Form1.resources
+E:\iti 3 monthes 2\ado\AdoForm\AdoForm\obj\Debug\net6.0-windows\AdoForm.csproj.GenerateResource.cache
+E:\iti 3 monthes 2\ado\AdoForm\AdoForm\obj\Debug\net6.0-windows\AdoForm.GeneratedMSBuildEditorConfig.editorconfig
+E:\iti 3 monthes 2\ado\AdoForm\AdoForm\obj\Debug\net6.0-windows\AdoForm.AssemblyInfoInputs.cache
+E:\iti 3 monthes 2\ado\AdoForm\AdoForm\obj\Debug\net6.0-windows\AdoForm.AssemblyInfo.cs
+E:\iti 3 monthes 2\ado\AdoForm\AdoForm\obj\Debug\net6.0-windows\AdoForm.csproj.CoreCompileInputs.cache
+E:\iti 3 monthes 2\ado\AdoForm\AdoForm\obj\Debug\net6.0-windows\AdoForm.csproj.CopyComplete
+E:\iti 3 monthes 2\ado\AdoForm\AdoForm\obj\Debug\net6.0-windows\AdoForm.dll
+E:\iti 3 monthes 2\ado\AdoForm\AdoForm\obj\Debug\net6.0-windows\refint\AdoForm.dll
+E:\iti 3 monthes 2\ado\AdoForm\AdoForm\obj\Debug\net6.0-windows\AdoForm.pdb
+E:\iti 3 monthes 2\ado\AdoForm\AdoForm\obj\Debug\net6.0-windows\AdoForm.genruntimeconfig.cache
+E:\iti 3 monthes 2\ado\AdoForm\AdoForm\obj\Debug\net6.0-windows\ref\AdoForm.dll
+E:\iti 4 months\ado\AdoForm\AdoForm\bin\Debug\net6.0-windows\AdoForm.exe
+E:\iti 4 months\ado\AdoForm\AdoForm\bin\Debug\net6.0-windows\AdoForm.deps.json
+E:\iti 4 months\ado\AdoForm\AdoForm\bin\Debug\net6.0-windows\AdoForm.runtimeconfig.json
+E:\iti 4 months\ado\AdoForm\AdoForm\bin\Debug\net6.0-windows\AdoForm.dll
+E:\iti 4 months\ado\AdoForm\AdoForm\bin\Debug\net6.0-windows\AdoForm.pdb
+E:\iti 4 months\ado\AdoForm\AdoForm\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+E:\iti 4 months\ado\AdoForm\AdoForm\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+E:\iti 4 months\ado\AdoForm\AdoForm\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+E:\iti 4 months\ado\AdoForm\AdoForm\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+E:\iti 4 months\ado\AdoForm\AdoForm\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\iti 4 months\ado\AdoForm\AdoForm\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\iti 4 months\ado\AdoForm\AdoForm\obj\Debug\net6.0-windows\AdoForm.csproj.AssemblyReference.cache
+E:\iti 4 months\ado\AdoForm\AdoForm\obj\Debug\net6.0-windows\AdoForm.Form1.resources
+E:\iti 4 months\ado\AdoForm\AdoForm\obj\Debug\net6.0-windows\AdoForm.csproj.GenerateResource.cache
+E:\iti 4 months\ado\AdoForm\AdoForm\obj\Debug\net6.0-windows\AdoForm.GeneratedMSBuildEditorConfig.editorconfig
+E:\iti 4 months\ado\AdoForm\AdoForm\obj\Debug\net6.0-windows\AdoForm.AssemblyInfoInputs.cache
+E:\iti 4 months\ado\AdoForm\AdoForm\obj\Debug\net6.0-windows\AdoForm.AssemblyInfo.cs
+E:\iti 4 months\ado\AdoForm\AdoForm\obj\Debug\net6.0-windows\AdoForm.csproj.CoreCompileInputs.cache
+E:\iti 4 months\ado\AdoForm\AdoForm\obj\Debug\net6.0-windows\AdoForm.csproj.Up2Date
+E:\iti 4 months\ado\AdoForm\AdoForm\obj\Debug\net6.0-windows\AdoForm.dll
+E:\iti 4 months\ado\AdoForm\AdoForm\obj\Debug\net6.0-windows\refint\AdoForm.dll
+E:\iti 4 months\ado\AdoForm\AdoForm\obj\Debug\net6.0-windows\AdoForm.pdb
+E:\iti 4 months\ado\AdoForm\AdoForm\obj\Debug\net6.0-windows\AdoForm.genruntimeconfig.cache
+E:\iti 4 months\ado\AdoForm\AdoForm\obj\Debug\net6.0-windows\ref\AdoForm.dll

@@ -1,0 +1,102 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\iti 4 months\\ado\\AdoForm\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0FEDDB1F-662F-4546-AB59-8EDF698EF3FC}|AdoForm\\AdoForm.csproj|e:\\iti 4 months\\ado\\adoform\\adoform\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FEDDB1F-662F-4546-AB59-8EDF698EF3FC}|AdoForm\\AdoForm.csproj|solutionrelative:adoform\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FEDDB1F-662F-4546-AB59-8EDF698EF3FC}|AdoForm\\AdoForm.csproj|e:\\iti 4 months\\ado\\adoform\\adoform\\form1.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{0FEDDB1F-662F-4546-AB59-8EDF698EF3FC}|AdoForm\\AdoForm.csproj|solutionrelative:adoform\\form1.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FEDDB1F-662F-4546-AB59-8EDF698EF3FC}|AdoForm\\AdoForm.csproj|e:\\iti 4 months\\ado\\adoform\\adoform\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FEDDB1F-662F-4546-AB59-8EDF698EF3FC}|AdoForm\\AdoForm.csproj|solutionrelative:adoform\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FEDDB1F-662F-4546-AB59-8EDF698EF3FC}|AdoForm\\AdoForm.csproj|e:\\iti 4 months\\ado\\adoform\\adoform\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FEDDB1F-662F-4546-AB59-8EDF698EF3FC}|AdoForm\\AdoForm.csproj|solutionrelative:adoform\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FEDDB1F-662F-4546-AB59-8EDF698EF3FC}|AdoForm\\AdoForm.csproj|e:\\iti 4 months\\ado\\adoform\\adoform\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0FEDDB1F-662F-4546-AB59-8EDF698EF3FC}|AdoForm\\AdoForm.csproj|solutionrelative:adoform\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.resx",
+              "DocumentMoniker": "E:\\iti 4 months\\ado\\AdoForm\\AdoForm\\Form1.resx",
+              "RelativeDocumentMoniker": "AdoForm\\Form1.resx",
+              "ToolTip": "E:\\iti 4 months\\ado\\AdoForm\\AdoForm\\Form1.resx",
+              "RelativeToolTip": "AdoForm\\Form1.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-03-07T15:40:00.568Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "E:\\iti 4 months\\ado\\AdoForm\\AdoForm\\Form1.cs",
+              "RelativeDocumentMoniker": "AdoForm\\Form1.cs",
+              "ToolTip": "E:\\iti 4 months\\ado\\AdoForm\\AdoForm\\Form1.cs",
+              "RelativeToolTip": "AdoForm\\Form1.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAswCEAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T15:39:52.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\iti 4 months\\ado\\AdoForm\\AdoForm\\Program.cs",
+              "RelativeDocumentMoniker": "AdoForm\\Program.cs",
+              "ToolTip": "E:\\iti 4 months\\ado\\AdoForm\\AdoForm\\Program.cs",
+              "RelativeToolTip": "AdoForm\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T15:39:52.305Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "E:\\iti 4 months\\ado\\AdoForm\\AdoForm\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "AdoForm\\Form1.Designer.cs",
+              "ToolTip": "E:\\iti 4 months\\ado\\AdoForm\\AdoForm\\Form1.Designer.cs",
+              "RelativeToolTip": "AdoForm\\Form1.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T15:39:52.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "E:\\iti 4 months\\ado\\AdoForm\\AdoForm\\Form1.cs",
+              "RelativeDocumentMoniker": "AdoForm\\Form1.cs",
+              "ToolTip": "E:\\iti 4 months\\ado\\AdoForm\\AdoForm\\Form1.cs",
+              "RelativeToolTip": "AdoForm\\Form1.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T15:39:52.31Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
