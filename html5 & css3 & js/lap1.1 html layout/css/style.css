@@ -1,0 +1,151 @@
+body{
+    padding: 0px;
+    margin: 0px;
+}
+/*header*/
+.header{
+    background-image:linear-gradient(rgba(0, 0, 0, 0.455),rgba(0, 0, 0, 0.404)),url(../images/2.jpg);
+    background-size: 100% ;
+    height: 90vh;
+    background-repeat: no-repeat;
+}
+.header h1{
+    text-align: center;
+    color: white;
+    size:20px;
+    margin: 0px;
+    padding-top: 200px;
+}
+.header p{
+    color: white;
+    text-align: center;
+    width: 1000px;
+    text-align: center;
+    margin-left: 200px;
+    padding: 2px;
+    
+}
+.header #btn1{
+    text-align: center;
+    margin-left: 600px;
+    border: 2px white solid;
+    border-radius: 10px;
+    width: 150px;
+    height: 50px;
+    background: transparent;
+    color: white;
+    margin-top: 20px;
+}
+.header #btn1:hover{
+    text-align: center;
+    margin-left: 600px;
+    border: 2px white solid;
+    border-radius: 10px;
+    width: 150px;
+    height: 50px;
+    background-color: red;
+    color: white;
+    margin-top: 20px;
+    cursor: pointer;
+}
+/*second sec*/
+
+.card{
+    float: left;
+    width: 30%;
+    margin-left: 30px;
+    text-align: center;
+    line-height: 25px;
+}
+.card img {
+    width: 100%;
+    height: 250px;
+    margin-bottom: 10px;
+    position: relative;
+}
+.img-container img:hover{
+    transform: translateY(-20px);
+}
+.card :hover  .icons{
+    display: block;
+}
+.img-container{
+    position: relative;
+
+}
+.activities-section-header{
+    overflow: auto;
+}
+.activities-section-header h2{
+    text-align: center;
+    font-size: 40px;
+    margin: 20px 0;
+}
+.line{
+    background-color: rgb(237, 155, 193);
+    height: 1px;
+    width: 20%;
+    margin: 40px auto;
+
+}
+.activities-section-content{
+    width: 80%;
+    margin: auto;
+}
+.icons{
+    position: absolute;
+    bottom: 18px;
+    width: 100%;
+    display: none;
+
+}
+
+i{
+    margin: 10px;
+    font-size: 30px;
+    padding: 10px;
+}
+i:hover{
+    background-color: white;
+    border-radius: 50%;
+}
+
+.pink{
+    background-color: rgb(244, 178, 191);
+}
+/*gallery*/
+#gallery-section{
+    margin-top: 100px;
+}
+.gallery-card{
+    width: 25%;
+    float: left;
+    text-align: center;
+}
+
+.gallery-content img{
+    width: 100%;
+    margin-bottom: 20px;
+    opacity: 0.5;
+}
+.gallery-content p{
+    width: 95%;
+    visibility: hidden;
+}
+.gallery-content img:hover{
+    opacity: 1;
+}
+.gallery-card img:hover + p{
+    visibility: visible;
+}
+
+@media all and (max-width:700px){
+    .gallery-card{
+        width: 100%;
+    }
+    .card{
+        width: 100%;
+    }
+
+}
+
