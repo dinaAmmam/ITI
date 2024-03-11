@@ -1,0 +1,23 @@
+h1{
+    text-align: center;
+    margin-bottom: 40px;
+}
+.form-check-input{
+    margin-right: 10px;
+}
+.form{
+    width: 700px;
+    height: 500px;
+    margin: auto;
+    padding: 50px;
+    margin-top: 50px;    
+    box-shadow: rgba(34, 34, 174, 0.25) 0px 50px 100px -20px, rgba(60, 85, 137, 0.3) 0px 30px 60px -30px, rgba(9, 101, 193, 0.35) 0px -2px 6px 0px inset;
+}
+.cont{
+    width: 700px;
+    height: 180px;
+    margin: auto;
+    padding: 50px;
+    margin-top: 50px;    
+    box-shadow: rgba(34, 34, 174, 0.25) 0px 50px 100px -20px, rgba(60, 85, 137, 0.3) 0px 30px 60px -30px, rgba(9, 101, 193, 0.35) 0px -2px 6px 0px inset;
+}

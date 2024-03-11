@@ -1,0 +1,91 @@
+#hd , #gallery , #featurs , #register{
+    text-align: center;
+    margin-top: 70px;
+    color: rgb(101, 94, 94);
+    font-size: 50px;
+}
+hr{
+    width: 200px;
+    margin: auto;
+}
+
+.carousel-caption{
+    margin-bottom: 560px;
+}
+.carousel-item img{
+    height: 120vh;
+}
+.carousel-item h5{
+    color: rgb(50, 49, 49);
+}
+.carousel-item p{
+    color: rgb(76, 75, 75);
+}
+.card img{
+    height: 300px;
+}
+.icons{
+    width: 100%;
+    text-align: center;
+    display: none;
+}
+
+i{
+    margin: 10px;
+    font-size: 30px;
+    padding: 10px;
+}
+i:hover{
+    background-color: rgb(225, 225, 225);
+    border-radius: 50%;
+    cursor: pointer;
+}
+.card :hover  .icons{
+    display: block;
+}
+.card{
+    margin: 20px;
+    border: 0;
+}
+.icons{
+    border-bottom: 0;
+}
+#btn:hover{
+    text-align: center;
+    border: 2px white solid;
+    border-radius: 10px;
+    background-color: rgb(49, 47, 47);
+    color: white;
+}
+.img-group img{
+    margin-top: 100px;
+    width: 330px;
+    height: 200px;
+    opacity: 0.5;
+}
+.img-group img:hover{
+    opacity: 1;
+    cursor: pointer;
+}
+#features{
+    margin-top: 50px;
+}
+.container{
+    margin-top: 50px;
+}
+.col b{
+    font-size: 30px;
+}
+.col-6 b{
+    font-size: 30px;
+}
+.reg{
+    margin-top: 50px;
+}
+.footer{
+    background-color: rgb(249, 248, 248);
+    height: 10vh;
+}
+.footer p{
+    padding-top: 20px;
+}
