@@ -1,0 +1,129 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+        }
+        .header{
+            background-color: rgb(223, 206, 139);
+            color: white;
+            height: 10vh;
+        }
+        .header ul{
+            display: flex;
+            flex-direction: row;
+            list-style: none;
+        }
+        .header li{
+            margin-top: 3vh;
+            margin-left: 5vh;
+            height: 25px;
+            width: 85px;
+            text-align: center;
+        }
+        .header li:hover{
+            
+            background-color: rgba(128, 128, 128, 0.286);
+            border: 1px  rgba(128, 128, 128, 0.286);
+            border-radius: 5px;
+        }
+        .img img{
+            width: 290px;
+            height: 250px;
+        }
+
+        .mainwrapper{
+            display: grid;
+            grid-template-areas: "aside header"
+                "aside img";
+            grid-template-rows:1fr 11fr;
+            grid-template-columns:1fr 5fr;
+        }
+        #header{
+            grid-area: header;
+        }
+        #img{
+            grid-area: img;
+        }
+        #aside{
+            grid-area: aside;
+        }
+        /*.img{
+            display: flex;
+            flex-wrap: wrap; 
+        }*/
+        #im1{grid-area: img1;}
+        #im2{grid-area: img2;}
+        #im3{grid-area: img3;}
+        #im4{grid-area: img4;}
+        #im5{grid-area: img5;}
+        #im6{grid-area: img6;}
+        #im7{grid-area: img7;}
+        #im8{grid-area: img8;}
+        #im9{grid-area: img9;}
+        #im10{grid-area: img10;}
+        #im11{grid-area: img11;}
+        #im12{grid-area: img12;}
+
+        #im1:hover,
+        #im2:hover,
+        #im3:hover,
+        #im4:hover,
+        #im5:hover,
+        #im6:hover,
+        #im7:hover,
+        #im8:hover,
+        #im9:hover,
+        #im10:hover,
+        #im11:hover,
+        #im12:hover {
+        transform: scale(0.9); /* Adjust the scale factor as needed */
+        transition: transform 0.3s ease-in-out; /* Add smooth transition effect */
+        }
+        .img{
+            display: grid;
+            grid-template-areas: "img1 img2 img3 img4"
+                "img5 img6 img7 img8"
+                "img9 img10 img11 img12";
+        }
+        .f-img img{
+            width: 50px;
+            height: 50px;
+            margin-bottom: 10px;
+        }
+        .f-img{
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: space-evenly;
+        }
+        .aside ul{
+            list-style: none;
+        }
+        .aside li{
+            margin: 10px;
+            color: rgb(88, 88, 88);
+        }
+        .aside li:hover{
+            color: black;
+        }
+        #fimg{
+            margin: 20px 0px;
+        }
+        .aside .icons i{
+            color:rgb(88, 88, 88) ;
+            margin: 5px 5px;
+        }
+        .aside .icons{
+            margin-left: 8px;
+            margin-bottom: 20px;
+        }
+        .aside h4{
+            color:rgb(88, 88, 88) ;
+            margin-bottom: 20px;
+            margin-left: 5px;
+        }
+        .aside p{
+            color:rgb(88, 88, 88) ;
+            margin-bottom: 20px;
+            margin-left: 5px;
+        }
+
