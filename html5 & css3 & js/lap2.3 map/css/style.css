@@ -1,0 +1,135 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+  }
+  #mainmenue {
+    display: flex;
+    justify-content: space-evenly;
+    height: 10vh;
+    align-items: center;
+  }
+  #mainmenue > li {
+    list-style: none;
+  }
+  li > a {
+    text-decoration: none;
+    font-weight: bold;
+    color: rgb(138 134 134);
+  }
+  li > a:hover {
+    color: rgb(125, 25, 25);
+  }
+  #intro {
+    background-image:linear-gradient(rgba(0, 0, 0, 0.455),rgba(0, 0, 0, 0.404)),url(../images/1.jpg);
+    background-size: cover;
+    height: 90vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  #intro > h3 {
+    font: bold;
+    font-size: 30px;
+    text-align: center;
+    color: white;
+  }
+  #intro > button {
+    margin: 2rem 0;
+    padding: 1.5rem 2rem;
+    font-weight: bold;
+    border-radius: 20px;
+    background-image: linear-gradient(to left, rgb(148, 207, 240), rgb(12, 80, 206));
+    cursor: pointer;
+  }
+  #intro > button:hover {
+    background-image: linear-gradient(to right, rgb(148, 207, 240), rgb(12, 80, 206));
+  }
+  
+  .branches {
+    display: flex;
+  }
+  #branches-section {
+    width: 90%;
+    height: 400px;
+    margin: auto;
+  }
+  .branches-section-header {
+    margin: 40px;
+    text-align: center;
+  }
+  .map {
+    width: 30%;
+    margin-top: 30px;
+  }
+  .map img {
+    width: 100%;
+  }
+  .branches-container {
+    width: 70%;
+    display: flex;
+  }
+  .branches-container-one,
+  .branches-container-two {
+    width: 50%;
+  }
+  .branch {
+    background-color: lightgray;
+    padding: 20px;
+    border-radius: 5px;
+    margin: 10px;
+  }
+  .brown {
+    color: brown;
+  }
+  
+  .buttons {
+    margin: 40px;
+  }
+  
+  .main-branch-span,
+  .normal-branch-span {
+    margin-right: 20px;
+  }
+  .branches-section-header > h1 {
+    margin: 10px;
+    color: brown;
+    font-size: 40px;
+  }
+  
+  #footer {
+    margin-top: 90px;
+    background-color: #323232;
+  }
+  
+  .footer-content {
+    display: flex;
+    margin: auto;
+    color: white;
+    padding: 30px;
+    font-size: 15px;
+  }
+  .footer-contact-us,
+  .footer-Follow-us {
+    width: 50%;
+  }
+  .footer-contact-us i{
+    font-size: 10px;
+
+  }
+  .footer-icons {
+    font-size: 30px;
+    margin-left: 300px;
+
+  }
+  .fa-brands {
+    margin: 10px;
+  }
+  .footer-Follow-us > h1 {
+    margin: 10px;
+    margin-left: 300px;
+  }
+  .footer-contact-us {
+    margin-left: 10px;
+  }
