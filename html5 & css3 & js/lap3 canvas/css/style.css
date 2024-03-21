@@ -1,0 +1,62 @@
+*{
+    padding: 0;
+    margin: 0;
+    user-select: none;
+}
+#toolbar{
+    position: fixed;
+    top: 0;
+    background-color: #2f2f2f;
+    color: white;
+    font:bold 15px tahoma;
+    width: 100%;
+    display: -webkit-box;
+    -webkit-box-align: center;
+    padding: 10px;
+}
+#radiusbar{
+    /*border: 2px solid yellow;*/
+    width: 200px;
+    padding: 10px;
+}
+.incredecre , #radiusvalue, #savebtn , .download{
+    /*border: 1px solid yellow;*/
+    padding: 8px 7px;
+    border-radius: 50%;
+    margin-left: 10px;
+    box-shadow: red 5px 5px 10px inset , cyan -5px -5px 10px inset;
+}
+.download{
+    color: white;
+    text-decoration: none;
+    cursor: pointer;
+    width: 300px;
+    margin-left: 250px;
+}
+.incredecre:hover, #savebtn:hover , .download:hover {
+    cursor: pointer;
+    box-shadow: cyan -5px -5px 10px inset , red 5px 5px 10px inset;
+}
+#savebar {
+    width: 300px;
+    margin-left: 30px;
+}
+#savebtn {
+    margin-left: 250px;
+}
+#colorsbar{
+    width: 600px;
+    margin-left: 50px;
+    padding: 10px;
+    display: -webkit-box;
+    -webkit-box-align: center;
+}
+.colors{
+    width: 35px;
+    height: 35px;
+    border-radius: 50%;
+    margin-left: 10px;
+}
+.active{
+    border: 2px solid white;
+}
