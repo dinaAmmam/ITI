@@ -1,0 +1,53 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+    List<string> departments = new List<string>();
+    departments.Add("medical");
+    departments.Add("it");
+    departments.Add("cs");
+    departments.Add("is");
+
+    int index = 0;
+    string dept_ = "";
+
+}
+
+<html>
+<head>
+
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+
+
+
+</head>
+
+<body>
+
+    <table class="table table-danger table-striped">
+        <thead>
+        <th >Dept ID</th>
+        <th>Dept Name</th>
+        </thead>
+        <tbody>
+
+
+            @foreach (var dept in departments)
+            {
+                index++;
+                <tr>
+                    <td> @index</td>
+                    <td> @dept</td>
+                </tr>
+            }
+
+
+
+        </tbody>
+
+
+    </table>
+
+
+</body>
+</html>
