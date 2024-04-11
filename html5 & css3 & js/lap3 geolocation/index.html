@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <section class="mainwrapper">
+        <section class="secbtns">
+            <input type="button" class="btns" value="Display Map" onclick="getloactionfun();">
+            <input type="button" class="btns" value="Detailed information" onclick="getDetails()">
+        </section>
+        <section class="map-container">
+            <section class="map" id="map">
+
+            </section>
+            <section id="details-map">
+                <section class="content">
+                  <label for="">latitude(degree)</label> <br>
+                  <input type="text"><br>
+                  <label for="">longitude(degree)</label> <br>
+                  <input type="text"> <br>
+                  <label for="">accuracy(m)</label> <br>
+                  <input type="text"> <br>
+                  <label for="">timeStamp(current time and date)</label> <br>
+                  <input type="text"> <br>
+                </section>
+            </section>
+
+        </section>
+
+    </section>
+    <script src="https://maps.googleapis.com/maps/api/js?libraries=places&key=AIzaSyB90FxtYG_ybAYXGkz0ybkmkboE2nEbezI"></script>
+    <script src="js/script.js"></script>
+</body>
+</html>
