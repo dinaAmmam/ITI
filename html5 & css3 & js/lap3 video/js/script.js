@@ -3,7 +3,7 @@ window.addEventListener('load', function(){
     myvideo.addEventListener('click' , playpausefun);
     myvideo.addEventListener('dblclick' , fullscreenfun)
     let buttons = document.querySelectorAll('#controls input[type="button"]');
-    let videoList= ['videos/2.mp4','videos/3.mp4','videos/2.mp4','videos/3.mp4']
+    let videoList= ['videos/1.mp4','videos/3.mp4','videos/1.mp4','videos/3.mp4']
     for (let i = 0; i < buttons.length; i++) {
         buttons[i].addEventListener('click', function () {
             playVideo(videoList[i]);
