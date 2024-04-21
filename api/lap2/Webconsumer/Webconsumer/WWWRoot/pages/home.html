@@ -1,0 +1,27 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.7.0/jquery.min.js"></script>
+    <script>
+        $(function () {
+            $.ajax({
+                url: 'http://localhost:5019/api/student',
+                method: 'GET',
+                success: function (data) {
+                    alert(JSON.stringify(data));
+                },
+                error: function (error) {
+                    alert("error");
+                }
+            })
+        })
+    </script>
+</head>
+<body>
+
+</body>
+</html>

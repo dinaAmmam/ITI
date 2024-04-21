@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\iti 4 months\\api 1 shafiey\\laps\\lap2\\consumer-client\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{26868A46-B702-450A-96E1-8FB1F7178B78}|lap_consumer\\lap_consumer.csproj|e:\\iti 4 months\\api 1 shafiey\\laps\\lap2\\consumer-client\\lap_consumer\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26868A46-B702-450A-96E1-8FB1F7178B78}|lap_consumer\\lap_consumer.csproj|solutionrelative:lap_consumer\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26868A46-B702-450A-96E1-8FB1F7178B78}|lap_consumer\\lap_consumer.csproj|e:\\iti 4 months\\api 1 shafiey\\laps\\lap2\\consumer-client\\lap_consumer\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{26868A46-B702-450A-96E1-8FB1F7178B78}|lap_consumer\\lap_consumer.csproj|solutionrelative:lap_consumer\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26868A46-B702-450A-96E1-8FB1F7178B78}|lap_consumer\\lap_consumer.csproj|e:\\iti 4 months\\api 1 shafiey\\laps\\lap2\\consumer-client\\lap_consumer\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26868A46-B702-450A-96E1-8FB1F7178B78}|lap_consumer\\lap_consumer.csproj|solutionrelative:lap_consumer\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26868A46-B702-450A-96E1-8FB1F7178B78}|lap_consumer\\lap_consumer.csproj|e:\\iti 4 months\\api 1 shafiey\\laps\\lap2\\consumer-client\\lap_consumer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26868A46-B702-450A-96E1-8FB1F7178B78}|lap_consumer\\lap_consumer.csproj|solutionrelative:lap_consumer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26868A46-B702-450A-96E1-8FB1F7178B78}|lap_consumer\\lap_consumer.csproj|e:\\iti 4 months\\api 1 shafiey\\laps\\lap2\\consumer-client\\lap_consumer\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26868A46-B702-450A-96E1-8FB1F7178B78}|lap_consumer\\lap_consumer.csproj|solutionrelative:lap_consumer\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26868A46-B702-450A-96E1-8FB1F7178B78}|lap_consumer\\lap_consumer.csproj|e:\\iti 4 months\\api 1 shafiey\\laps\\lap2\\consumer-client\\lap_consumer\\studentdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26868A46-B702-450A-96E1-8FB1F7178B78}|lap_consumer\\lap_consumer.csproj|solutionrelative:lap_consumer\\studentdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "E:\\iti 4 months\\api 1 shafiey\\laps\\lap2\\consumer-client\\lap_consumer\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "lap_consumer\\Form1.Designer.cs",
+              "ToolTip": "E:\\iti 4 months\\api 1 shafiey\\laps\\lap2\\consumer-client\\lap_consumer\\Form1.Designer.cs",
+              "RelativeToolTip": "lap_consumer\\Form1.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T19:07:52.001Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "studentdata.cs",
+              "DocumentMoniker": "E:\\iti 4 months\\api 1 shafiey\\laps\\lap2\\consumer-client\\lap_consumer\\studentdata.cs",
+              "RelativeDocumentMoniker": "lap_consumer\\studentdata.cs",
+              "ToolTip": "E:\\iti 4 months\\api 1 shafiey\\laps\\lap2\\consumer-client\\lap_consumer\\studentdata.cs",
+              "RelativeToolTip": "lap_consumer\\studentdata.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAoAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T18:50:32.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "student.cs",
+              "DocumentMoniker": "E:\\iti 4 months\\api 1 shafiey\\laps\\lap2\\consumer-client\\lap_consumer\\student.cs",
+              "RelativeDocumentMoniker": "lap_consumer\\student.cs",
+              "ToolTip": "E:\\iti 4 months\\api 1 shafiey\\laps\\lap2\\consumer-client\\lap_consumer\\student.cs",
+              "RelativeToolTip": "lap_consumer\\student.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAmwBkAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T18:44:07.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "E:\\iti 4 months\\api 1 shafiey\\laps\\lap2\\consumer-client\\lap_consumer\\Form1.cs",
+              "RelativeDocumentMoniker": "lap_consumer\\Form1.cs",
+              "ToolTip": "E:\\iti 4 months\\api 1 shafiey\\laps\\lap2\\consumer-client\\lap_consumer\\Form1.cs",
+              "RelativeToolTip": "lap_consumer\\Form1.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAIwBgAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T16:34:19.493Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\iti 4 months\\api 1 shafiey\\laps\\lap2\\consumer-client\\lap_consumer\\Program.cs",
+              "RelativeDocumentMoniker": "lap_consumer\\Program.cs",
+              "ToolTip": "E:\\iti 4 months\\api 1 shafiey\\laps\\lap2\\consumer-client\\lap_consumer\\Program.cs",
+              "RelativeToolTip": "lap_consumer\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T16:34:08.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "E:\\iti 4 months\\api 1 shafiey\\laps\\lap2\\consumer-client\\lap_consumer\\Form1.cs",
+              "RelativeDocumentMoniker": "lap_consumer\\Form1.cs",
+              "ToolTip": "E:\\iti 4 months\\api 1 shafiey\\laps\\lap2\\consumer-client\\lap_consumer\\Form1.cs [Design]",
+              "RelativeToolTip": "lap_consumer\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T02:20:48.063Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

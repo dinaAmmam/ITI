@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "Hash": "CIzCOo+qY5QLrNuupZTcrC33GTnysRCxQv5FD7kB0GM=",
+  "Source": "Webconsumer",
+  "BasePath": "_content/Webconsumer",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Webconsumer\\wwwroot",
+      "Source": "Webconsumer",
+      "ContentRoot": "E:\\iti 4 months\\api 1 shafiey\\laps\\lap2\\Webconsumer\\Webconsumer\\wwwroot\\",
+      "BasePath": "_content/Webconsumer",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "E:\\iti 4 months\\api 1 shafiey\\laps\\lap2\\Webconsumer\\Webconsumer\\wwwroot\\jquery\\src\\jquery.js",
+      "SourceId": "Webconsumer",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\iti 4 months\\api 1 shafiey\\laps\\lap2\\Webconsumer\\Webconsumer\\wwwroot\\",
+      "BasePath": "_content/Webconsumer",
+      "RelativePath": "jquery/src/jquery.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\jquery\\src\\jquery.js"
+    },
+    {
+      "Identity": "E:\\iti 4 months\\api 1 shafiey\\laps\\lap2\\Webconsumer\\Webconsumer\\wwwroot\\pages\\home.html",
+      "SourceId": "Webconsumer",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\iti 4 months\\api 1 shafiey\\laps\\lap2\\Webconsumer\\Webconsumer\\wwwroot\\",
+      "BasePath": "_content/Webconsumer",
+      "RelativePath": "pages/home.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\pages\\home.html"
+    }
+  ]
+}
