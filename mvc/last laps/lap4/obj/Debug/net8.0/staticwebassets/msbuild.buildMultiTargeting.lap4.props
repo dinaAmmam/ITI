@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\lap4.props" />
+</Project>

@@ -1,0 +1,24 @@
+﻿@model Department
+@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+    Course crs = ViewBag.course;
+}
+<html>
+    <head></head>
+    <body>
+        <h1>Department Name @Model.DeptName</h1>
+        <h1>Course Name @crs.Crs_Name</h1>
+
+        <form method="post">
+        @foreach(var item in Model.students)
+        {
+            <label>@item.Name</label>
+            <input type="text" name="degree.@item.Id" /><br />
+        }
+        <input type="submit" value="add" />
+
+        </form>
+    </body>
+</html>

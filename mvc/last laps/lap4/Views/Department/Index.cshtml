@@ -1,0 +1,42 @@
+﻿@model IEnumerable<Department>
+@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+<html>
+<head>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+</head>
+<body>
+    <a asp-action="create" asp-controller="department" class="btn btn-danger">Create</a>
+    <table class="table table-bordered table-hover">
+        <thead>
+            <tr>
+                <th>Id</th>
+                <th>Name</th>
+                <th>Operations</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>@item.DeptId</td>
+                    <td>@item.DeptName</td>
+                    <td>
+                         <a asp-action="details" asp-controller="department" asp-route-id="@item.DeptId" class="btn btn-info"> Details</a>
+                       | <a asp-action="edit" asp-controller="department" asp-route-id="@item.DeptId" class="btn btn-info"> Update</a>
+                       | <a asp-action="delete" asp-controller="department" onclick="return confirm('are you sure ??')" asp-route-id="@item.DeptId" class="btn btn-danger"> Delete</a>
+                       | <a asp-action="ShowCourses" asp-controller="departmentCourse" asp-route-id="@item.DeptId" class="btn btn-info">Show Courses</a>
+                       | <a asp-action="MangeCourses" asp-controller="departmentCourse" asp-route-id="@item.DeptId" class="btn btn-info">Manage Courses</a>
+
+
+
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</body>
+</html>

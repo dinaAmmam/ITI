@@ -1,0 +1,25 @@
+﻿@model Department
+@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+    SelectList coursesInDept = new SelectList(Model.courses, "Id", "Crs_Name");
+    SelectList coursesNotInDept = new SelectList(ViewBag.courseNotInDept, "Id", "Crs_Name");
+}
+<html>
+    <head>
+
+    </head>
+    <body>
+        <form method="post">
+            <label>CoursesInDept</label>
+        <select multiple asp-items="coursesInDept" name="coursesToRemove">
+
+            </select>
+            <label>CoursesNotInDept</label>
+        <select multiple asp-items="coursesNotInDept" name="coursesToAdd">
+            </select>
+            <input type="submit" value="Change Courses" />
+        </form>
+    </body>
+</html>
