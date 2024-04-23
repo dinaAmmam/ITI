@@ -1,0 +1,40 @@
+<div class="bg-light ">
+    <table class="table">
+        <thead>
+            <tr>
+                <th scope="col">#</th>
+                <th scope="col">Name</th>
+                <th scope="col">Price</th>
+                <th scope="col">Quantity</th>
+            </tr>
+        </thead>
+        <tbody>
+            @if(productsCart.length==0){
+            <span class="text-warning">No items in cart</span>
+            }
+            @for(product of productsCart;track $index){
+            <tr>
+                <th scope="row">{{$index +1}}</th>
+                <td>{{product.name}}</td>
+                <td>{{product.price}}</td>
+                <td>{{product.quantity}}</td>
+
+            </tr>
+            }
+        </tbody>
+    </table>
+</div>
+
+<div class="p-2 products-container">
+    @if(products.length==0){
+    <h3>No products matches you search critria</h3>
+    }
+
+
+    @for(parentProduct of products;track parentProduct.id){
+    <app-single-product [product]="parentProduct" [isChair]="true" (handleAddToCart)="addToCart($event)"
+        [searchValue]="filterValue"></app-single-product>
+    }
+    <div>
+    </div>
+</div>
